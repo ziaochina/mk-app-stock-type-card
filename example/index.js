@@ -2,8 +2,8 @@ import { config, start, componentFactory } from 'mk-meta-engine'
 import * as mkComponents from 'mk-component'
 import myConfig  from './config'
 
-import mk_app_stock_type_card_test from './apps/apps/mk-app-stock-type-card-test/index.js'
-import mk_app_stock_type_card from './apps/index.js'
+import mk_app_stock_type_card_test from './apps/mk-app-stock-type-card/apps/mk-app-stock-type-card-test/index.js'
+import mk_app_stock_type_card from './apps/mk-app-stock-type-card/index.js'
 
 const apps = {
 		
