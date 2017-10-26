@@ -1,6 +1,6 @@
 {
   "name": "mk-app-stock-type-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "存货分类卡片",
   "main": "index.js",
   "directories": {
